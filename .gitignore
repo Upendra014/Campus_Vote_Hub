@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Environment
+.env
+
+# Flask
+instance/
+
+# Node
+node_modules/
+logs/
+
+# OS
+desktop.ini
